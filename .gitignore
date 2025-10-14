@@ -1,2 +1,7 @@
 # Ignora i checkpoint di Jupyter
 .ipynb_checkpoints/
+<<<<<<< HEAD
+# Ignora i checkpoint di Jupyter
+=======
+>>>>>>> main
+.ipynb_checkpoints/
